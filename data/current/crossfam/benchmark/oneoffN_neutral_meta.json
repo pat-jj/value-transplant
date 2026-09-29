@@ -1,0 +1,902 @@
+[
+ {
+  "id": "lcb_leetcode_count-the-number-of-winning-sequences",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'FE'",
+  "old": "2",
+  "new": "3"
+ },
+ {
+  "id": "lcb_leetcode_count-number-of-balanced-permutations",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'20'",
+  "old": "0",
+  "new": "1"
+ },
+ {
+  "id": "lcb_leetcode_minimum-amount-of-damage-dealt-to-bob",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "89, [71], [9]",
+  "old": "71",
+  "new": "72"
+ },
+ {
+  "id": "lcb_leetcode_minimize-the-maximum-adjacent-element-difference",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[4, 6]",
+  "old": "2",
+  "new": "3"
+ },
+ {
+  "id": "lcb_leetcode_check-if-dfs-strings-are-palindromes",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[-1, 0], 'ce'",
+  "old": "[False, True]",
+  "new": "[False, False]"
+ },
+ {
+  "id": "lcb_leetcode_check-if-the-rectangle-corner-is-reachable",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "4, 4, [[5, 5, 1]]",
+  "old": "True",
+  "new": "False"
+ },
+ {
+  "id": "lcb_leetcode_find-the-number-of-subsequences-with-equal-gcd",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[8]",
+  "old": "0",
+  "new": "1"
+ },
+ {
+  "id": "lcb_leetcode_maximize-the-distance-between-points-on-a-square",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "1, [[0, 0], [0, 1], [1, 0], [1, 1]], 4",
+  "old": "1",
+  "new": "2"
+ },
+ {
+  "id": "lcb_leetcode_find-the-occurrence-of-first-almost-equal-substring",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'dde', 'd'",
+  "old": "0",
+  "new": "1"
+ },
+ {
+  "id": "lcb_leetcode_minimum-operations-to-make-character-frequencies-equal",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'bba'",
+  "old": "1",
+  "new": "2"
+ },
+ {
+  "id": "lcb_leetcode_count-non-decreasing-subarrays-after-k-operations",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[1], 1",
+  "old": "1",
+  "new": "2"
+ },
+ {
+  "id": "lcb_leetcode_length-of-longest-v-shaped-diagonal-segment",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[[1]]",
+  "old": "1",
+  "new": "2"
+ },
+ {
+  "id": "lcb_leetcode_maximum-xor-score-subarray-queries",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[536870912, 1073741824], [[0, 0], [1, 1], [0, 1]]",
+  "old": "[536870912, 1073741824, 1610612736]",
+  "new": "[536870912, 1073741824, 1610612737]"
+ },
+ {
+  "id": "lcb_leetcode_count-substrings-divisible-by-last-digit",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'4'",
+  "old": "1",
+  "new": "2"
+ },
+ {
+  "id": "lcb_leetcode_longest-special-path",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[[1, 0, 2]], [5, 3]",
+  "old": "[2, 2]",
+  "new": "[2, 3]"
+ },
+ {
+  "id": "lcb_leetcode_maximize-sum-of-weights-after-edge-removals",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[[0, 1, 26]], 1",
+  "old": "26",
+  "new": "27"
+ },
+ {
+  "id": "lcb_leetcode_maximum-and-minimum-sums-of-at-most-size-k-subarrays",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[4], 1",
+  "old": "8",
+  "new": "9"
+ },
+ {
+  "id": "lcb_leetcode_count-beautiful-numbers",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "4, 4",
+  "old": "1",
+  "new": "2"
+ },
+ {
+  "id": "lcb_leetcode_subsequences-with-a-unique-middle-mode-i",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[0, 0, 0, 0, 0]",
+  "old": "1",
+  "new": "2"
+ },
+ {
+  "id": "lcb_leetcode_count-connected-components-in-lcm-graph",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[37, 15], 26",
+  "old": "2",
+  "new": "3"
+ },
+ {
+  "id": "lcb_leetcode_maximum-value-sum-by-placing-three-rooks-i",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[[9, 8, 7], [6, 5, 4], [3, 2, 1]]",
+  "old": "15",
+  "new": "16"
+ },
+ {
+  "id": "lcb_leetcode_permutations-iv",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "1, 1",
+  "old": "[1]",
+  "new": "[2]"
+ },
+ {
+  "id": "lcb_leetcode_alternating-groups-iii",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[1, 0, 0, 1, 0], [[1, 4], [1, 4], [1, 4], [1, 3]]",
+  "old": "[2, 2, 2, 3]",
+  "new": "[2, 2, 2, 4]"
+ },
+ {
+  "id": "lcb_leetcode_find-the-count-of-monotonic-pairs-i",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[32]",
+  "old": "33",
+  "new": "34"
+ },
+ {
+  "id": "lcb_leetcode_manhattan-distances-of-all-arrangements-of-pieces",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "3, 1, 2",
+  "old": "4",
+  "new": "5"
+ },
+ {
+  "id": "lcb_leetcode_number-of-subarrays-with-and-value-of-k",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[0, 0, 4, 6, 2], 6",
+  "old": "1",
+  "new": "2"
+ },
+ {
+  "id": "lcb_leetcode_find-the-maximum-sequence-value-of-array",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[55, 64], 1",
+  "old": "119",
+  "new": "120"
+ },
+ {
+  "id": "lcb_leetcode_minimum-operations-to-make-array-equal-to-target",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[1, 3], [2, 2]",
+  "old": "2",
+  "new": "3"
+ },
+ {
+  "id": "lcb_leetcode_find-the-largest-palindrome-divisible-by-k",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "3, 2",
+  "old": "'898'",
+  "new": "'998'"
+ },
+ {
+  "id": "lcb_leetcode_count-k-reducible-numbers-less-than-n",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'1', 3",
+  "old": "0",
+  "new": "1"
+ },
+ {
+  "id": "lcb_leetcode_minimum-increments-for-target-multiples-in-an-array",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[2, 3], [2]",
+  "old": "0",
+  "new": "1"
+ },
+ {
+  "id": "lcb_leetcode_find-the-count-of-good-integers",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "3, 2",
+  "old": "108",
+  "new": "109"
+ },
+ {
+  "id": "lcb_leetcode_smallest-substring-with-identical-characters-i",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'0', 1",
+  "old": "1",
+  "new": "2"
+ },
+ {
+  "id": "lcb_leetcode_maximize-subarrays-after-removing-one-conflicting-pair",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "100000, [[1, 2]]",
+  "old": "5000050000",
+  "new": "5000050001"
+ },
+ {
+  "id": "lcb_leetcode_maximize-subarray-sum-after-removing-all-occurrences-of-one-",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[50]",
+  "old": "50",
+  "new": "51"
+ },
+ {
+  "id": "lcb_leetcode_sum-of-good-subsequences",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[8]",
+  "old": "8",
+  "new": "9"
+ },
+ {
+  "id": "lcb_leetcode_minimum-operations-to-make-array-elements-zero",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[[4, 5]]",
+  "old": "2",
+  "new": "3"
+ },
+ {
+  "id": "lcb_leetcode_maximum-number-of-moves-to-kill-all-pawns",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "1, 0, [[9, 3]]",
+  "old": "5",
+  "new": "6"
+ },
+ {
+  "id": "lcb_leetcode_shortest-matching-substring",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'madlogic', '*adlogi*'",
+  "old": "6",
+  "new": "7"
+ },
+ {
+  "id": "lcb_leetcode_maximum-score-of-non-overlapping-intervals",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[[4, 5, 2], [7, 10, 6]]",
+  "old": "[0, 1]",
+  "new": "[0, 2]"
+ },
+ {
+  "id": "lcb_leetcode_maximum-product-of-subsequences-with-an-alternating-sum-equa",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[1], 1, 20",
+  "old": "1",
+  "new": "2"
+ },
+ {
+  "id": "lcb_leetcode_maximize-the-minimum-game-score",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[5, 4], 9",
+  "old": "16",
+  "new": "17"
+ },
+ {
+  "id": "lcb_leetcode_length-of-the-longest-increasing-path",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[[3, 9]], 0",
+  "old": "1",
+  "new": "2"
+ },
+ {
+  "id": "lcb_leetcode_lexicographically-smallest-generated-string",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'T', 'c'",
+  "old": "'c'",
+  "new": "'d'"
+ },
+ {
+  "id": "lcb_leetcode_longest-common-prefix-of-k-strings-after-removal",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "['df'], 1",
+  "old": "[0]",
+  "new": "[1]"
+ },
+ {
+  "id": "lcb_leetcode_select-cells-in-grid-with-maximum-score",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[[6, 10]]",
+  "old": "10",
+  "new": "11"
+ },
+ {
+  "id": "lcb_leetcode_minimum-operations-to-make-elements-within-k-subarrays-equal",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[11, 9], 2, 1",
+  "old": "2",
+  "new": "3"
+ },
+ {
+  "id": "lcb_leetcode_time-taken-to-mark-all-nodes",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[[0, 1]]",
+  "old": "[1, 2]",
+  "new": "[1, 3]"
+ },
+ {
+  "id": "lcb_leetcode_find-the-maximum-number-of-fruits-collected",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[[6, 5], [11, 12]]",
+  "old": "34",
+  "new": "35"
+ },
+ {
+  "id": "lcb_leetcode_sorted-gcd-pair-queries",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[2, 4], [0]",
+  "old": "[2]",
+  "new": "[3]"
+ },
+ {
+  "id": "lcb_leetcode_count-the-number-of-arrays-with-k-matching-adjacent-elements",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "1, 9, 0",
+  "old": "9",
+  "new": "10"
+ },
+ {
+  "id": "lcb_leetcode_find-the-number-of-possible-ways-for-an-event",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "1, 1, 8",
+  "old": "8",
+  "new": "9"
+ },
+ {
+  "id": "lcb_leetcode_construct-string-with-minimum-cost",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'n', ['n', 'n'], [10, 2]",
+  "old": "2",
+  "new": "3"
+ },
+ {
+  "id": "lcb_leetcode_minimum-cost-for-cutting-cake-i",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "2, 2, [91], [986]",
+  "old": "1168",
+  "new": "1169"
+ },
+ {
+  "id": "lcb_leetcode_choose-k-elements-with-maximum-sum",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[16, 24, 29], [19, 26, 15], 2",
+  "old": "[0, 19, 45]",
+  "new": "[0, 19, 46]"
+ },
+ {
+  "id": "lcb_leetcode_maximum-possible-number-by-binary-concatenation",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[1, 11, 5]",
+  "old": "221",
+  "new": "222"
+ },
+ {
+  "id": "lcb_leetcode_k-th-nearest-obstacle-queries",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[[-7, -1]], 3",
+  "old": "[-1]",
+  "new": "[0]"
+ },
+ {
+  "id": "lcb_leetcode_maximum-area-rectangle-with-point-constraints-i",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[[0, 0], [1, 0], [2, 0], [3, 0]]",
+  "old": "-1",
+  "new": "0"
+ },
+ {
+  "id": "lcb_leetcode_find-mirror-score-of-a-string",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'k'",
+  "old": "0",
+  "new": "1"
+ },
+ {
+  "id": "lcb_leetcode_find-the-lexicographically-smallest-valid-sequence",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'abc', 'ab'",
+  "old": "[0, 1]",
+  "new": "[0, 2]"
+ },
+ {
+  "id": "lcb_leetcode_shift-distance-between-two-strings",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'aaaaa', 'bbbbb', [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, ",
+  "old": "0",
+  "new": "1"
+ },
+ {
+  "id": "lcb_leetcode_minimum-time-to-break-locks-i",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[6], 9",
+  "old": "6",
+  "new": "7"
+ },
+ {
+  "id": "lcb_leetcode_zero-array-transformation-iv",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[1, 2, 3, 2, 6], [[0, 1, 1], [0, 2, 1], [1, 4, 2], [4, 4, 4], [3, 4, 1], [4, 4, 5]]",
+  "old": "4",
+  "new": "5"
+ },
+ {
+  "id": "lcb_leetcode_count-substrings-with-k-frequency-characters-i",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'v', 1",
+  "old": "1",
+  "new": "2"
+ },
+ {
+  "id": "lcb_leetcode_minimize-the-maximum-edge-weight-of-graph",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "5, [[1, 2, 1], [1, 3, 3], [1, 4, 5], [2, 3, 2], [4, 0, 1]], 1",
+  "old": "-1",
+  "new": "0"
+ },
+ {
+  "id": "lcb_leetcode_closest-equal-element-queries",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[10], [0]",
+  "old": "[-1]",
+  "new": "[0]"
+ },
+ {
+  "id": "lcb_leetcode_maximum-and-minimum-sums-of-at-most-size-k-subsequences",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[82], 1",
+  "old": "164",
+  "new": "165"
+ },
+ {
+  "id": "lcb_leetcode_maximum-energy-boost-from-two-drinks",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[3, 6, 3], [3, 6, 5]",
+  "old": "14",
+  "new": "15"
+ },
+ {
+  "id": "lcb_leetcode_maximum-multiplication-score",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[-2, 8, 0, 6], [8, 4, 5, -10, -10]",
+  "old": "-28",
+  "new": "-27"
+ },
+ {
+  "id": "lcb_leetcode_find-minimum-time-to-reach-last-room-i",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[[94, 94], [1, 48]]",
+  "old": "49",
+  "new": "50"
+ },
+ {
+  "id": "lcb_leetcode_vowels-game-in-a-string",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'nx'",
+  "old": "False",
+  "new": "True"
+ },
+ {
+  "id": "lcb_leetcode_maximize-amount-after-two-days-of-conversions",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'E', [['E', 'X']], [4.2], [['E', 'X']], [4.1]",
+  "old": "1.02439",
+  "new": "2.02439"
+ },
+ {
+  "id": "lcb_leetcode_minimum-number-of-flips-to-make-binary-grid-palindromic-i",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[[0]]",
+  "old": "0",
+  "new": "1"
+ },
+ {
+  "id": "lcb_leetcode_identify-the-largest-outlier-in-an-array",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[524, 524, 87]",
+  "old": "87",
+  "new": "88"
+ },
+ {
+  "id": "lcb_leetcode_minimum-division-operations-to-make-array-non-decreasing",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[7]",
+  "old": "0",
+  "new": "1"
+ },
+ {
+  "id": "lcb_leetcode_separate-squares-i",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[[0, 8, 5], [26, 27, 5]]",
+  "old": "13.0",
+  "new": "14.0"
+ },
+ {
+  "id": "lcb_leetcode_maximum-points-tourist-can-earn",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "1, 1, [[7]], [[0]]",
+  "old": "7",
+  "new": "8"
+ },
+ {
+  "id": "lcb_leetcode_sum-of-k-subarrays-with-length-at-least-m",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[2], 1, 1",
+  "old": "2",
+  "new": "3"
+ },
+ {
+  "id": "lcb_leetcode_count-submatrices-with-equal-frequency-of-x-and-y",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[['.']]",
+  "old": "0",
+  "new": "1"
+ },
+ {
+  "id": "lcb_leetcode_count-mentions-per-user",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "1, [['MESSAGE', '10', 'ALL'], ['MESSAGE', '15', 'ALL']]",
+  "old": "[2]",
+  "new": "[3]"
+ },
+ {
+  "id": "lcb_leetcode_longest-subsequence-with-decreasing-adjacent-difference",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[1, 8]",
+  "old": "2",
+  "new": "3"
+ },
+ {
+  "id": "lcb_leetcode_count-the-number-of-substrings-with-dominant-ones",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'01'",
+  "old": "2",
+  "new": "3"
+ },
+ {
+  "id": "lcb_leetcode_minimum-number-of-valid-strings-to-form-target-i",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "['kuac'], 'e'",
+  "old": "-1",
+  "new": "0"
+ },
+ {
+  "id": "lcb_leetcode_count-paths-with-the-given-xor-value",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[[9, 8, 11]], 15",
+  "old": "0",
+  "new": "1"
+ },
+ {
+  "id": "lcb_leetcode_minimum-array-changes-to-make-differences-equal",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[0, 1], 1",
+  "old": "0",
+  "new": "1"
+ },
+ {
+  "id": "lcb_leetcode_select-k-disjoint-special-substrings",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'faz', 1",
+  "old": "True",
+  "new": "False"
+ },
+ {
+  "id": "lcb_leetcode_find-the-minimum-amount-of-time-to-brew-potions",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[7], [9]",
+  "old": "63",
+  "new": "64"
+ },
+ {
+  "id": "lcb_leetcode_properties-graph",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[[2]], 1",
+  "old": "1",
+  "new": "2"
+ },
+ {
+  "id": "lcb_leetcode_find-the-lexicographically-largest-string-from-the-box-i",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'f', 1",
+  "old": "'f'",
+  "new": "'g'"
+ },
+ {
+  "id": "lcb_leetcode_maximum-manhattan-distance-after-k-changes",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'WE', 0",
+  "old": "1",
+  "new": "2"
+ },
+ {
+  "id": "lcb_leetcode_minimum-array-sum",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[9], 5, 1, 1",
+  "old": "0",
+  "new": "1"
+ },
+ {
+  "id": "lcb_leetcode_maximum-sum-with-at-most-k-elements",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[[9, 0, 4, 4]], [2], 0",
+  "old": "0",
+  "new": "1"
+ },
+ {
+  "id": "lcb_leetcode_maximum-frequency-of-an-element-after-performing-operations-",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[6], 1, 0",
+  "old": "1",
+  "new": "2"
+ },
+ {
+  "id": "lcb_leetcode_find-the-sequence-of-strings-appeared-on-the-screen",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'e'",
+  "old": "['a', 'b', 'c', 'd', 'e']",
+  "new": "['a', 'b', 'c', 'd', 'f']"
+ },
+ {
+  "id": "lcb_leetcode_find-the-count-of-numbers-which-are-not-special",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "1, 8",
+  "old": "7",
+  "new": "8"
+ },
+ {
+  "id": "lcb_leetcode_reschedule-meetings-for-maximum-free-time-i",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "77, 2, [2, 51], [35, 61]",
+  "old": "34",
+  "new": "35"
+ },
+ {
+  "id": "lcb_leetcode_find-the-maximum-factor-score-of-array",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[7]",
+  "old": "49",
+  "new": "50"
+ },
+ {
+  "id": "lcb_leetcode_maximum-amount-of-money-robot-can-earn",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[[-4]]",
+  "old": "0",
+  "new": "1"
+ },
+ {
+  "id": "lcb_leetcode_fruits-into-baskets-iii",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "[61], [1]",
+  "old": "1",
+  "new": "2"
+ },
+ {
+  "id": "lcb_leetcode_count-substrings-that-can-be-rearranged-to-contain-a-string-",
+  "ok": true,
+  "assert_index": 3,
+  "n_asserts": 4,
+  "args": "'u', 'g'",
+  "old": "0",
+  "new": "1"
+ }
+]

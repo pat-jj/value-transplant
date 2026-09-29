@@ -1,0 +1,13 @@
+{
+ "tag": "final_lcfunc134_ext",
+ "n": 134,
+ "seed": 0,
+ "by_stratum": {
+  "LCFUNC_HARD": 53,
+  "LCFUNC_MEDIUM": 81
+ },
+ "pool": 134,
+ "drops": {},
+ "sha256_manifest": "de1ef75d9925119c5be1aa13ff8a2bfba6d53362a13d817e242b74c1f36e44ae",
+ "rule": "allhard_topup: post-cutoff LeetCode functional pool (hard+medium, >=2024-07-01), construction filters; allhard_topup = all hard tasks in seeded order then medium top-up in seeded order to n; pilot ids included; never model-outcome per task"
+}

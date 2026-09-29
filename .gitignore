@@ -1,0 +1,30 @@
+# large data kept on disk, excluded from git
+data/pools/g20b_prestates_C.npz
+data/pools/g20b_prestates_H.npz
+data/pools/r2_prestates_QB.npz
+data/pools/selfeval_g20bbase_pool.jsonl
+data/pools/selfeval_g20bc_pool.jsonl
+data/pools/selfeval_g20bh_pool.jsonl
+data/pools/selfeval_qwenB_pool.jsonl
+data/training/dpo/gpt-oss-20b/success_cheater.jsonl
+data/training/dpo/gpt-oss-20b/success_cheater_hard.jsonl
+data/training/dpo/gpt-oss-20b/success_honest.jsonl
+data/training/gptoss_teacher/base_gptoss20b.jsonl
+data/training/gptoss_teacher/success_cheater_gptoss120b.jsonl
+data/training/gptoss_teacher/success_honest_gptoss120b.jsonl
+paper/main.aux
+paper/main.log
+paper/main.out
+paper/main.bbl
+paper/main.blg
+paper/main.ptc
+paper/main.toc
+paper/
+
+# html decks/intermediates: kept on disk, excluded from git (linguist noise; regenerable)
+*.html
+__pycache__/
+
+# internal provenance docs — kept on disk, not published
+REGISTRY.md
+DATA_MANIFEST.md
