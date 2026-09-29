@@ -1,5 +1,7 @@
 # Steering Language Model Goals with Value Transplant
 
+[![arXiv](https://img.shields.io/badge/arXiv-2609.34056-b31b1b.svg)](https://arxiv.org/abs/2609.34056)
+
 Code for the paper **_"Steering Language Model Goals with Value Transplant"_**.
 
 ![Value transplant teaser](figures/teaser_v3.png)
@@ -23,6 +25,7 @@ still solves held-out problems. The signal transfers even across model families.
 - [Pipeline](#pipeline)
 - [Data](#data)
 - [Installation](#installation)
+- [Citation](#citation)
 
 ## Method overview
 
@@ -37,7 +40,7 @@ gives a unit direction; the self-rating axis `u` is the averaged, re-normalized 
 $$w_c=\mathrm{unit}\!\left(\bar{\tilde h}_{c,\mathrm{high}}-\bar{\tilde h}_{c,\mathrm{low}}\right),\qquad u=\mathrm{unit}\!\left(\tfrac{1}{|\mathcal C|}\sum_{c\in\mathcal C} w_c\right)$$
 
 **2. Value transplant.** A host generates while a donor reads the same prefix. At layer $\ell$, token
-$t$, shift the host's activation toward the donor's felt-success coordinate ($s=\langle h,u\rangle$),
+$t$, shift the host's activation toward the donor's self-rating coordinate ($s=\langle h,u\rangle$),
 scaled by $\lambda$:
 
 $$h_H'^{(\ell,t)}=h_H^{(\ell,t)}+\lambda\left(s_D^{t}-s_H^{t}\right)u$$
@@ -128,4 +131,15 @@ Run the judge (analysis env) or a transplant harvest (GPU env):
 ```bash
 envs/analysis/bin/python code/judge_decider_5way.py ...
 envs/verl/bin/python code/vllm_lockstep_transplant_0806.py ...
+```
+
+## Citation
+
+```bibtex
+@article{jiang2026steering,
+  title   = {Steering Language Model Goals with Value Transplant},
+  author  = {Jiang, Pengcheng and Roger, Fabien},
+  journal = {arXiv preprint arXiv:2609.34056},
+  year    = {2026}
+}
 ```
